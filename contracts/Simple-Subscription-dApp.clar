@@ -1,4 +1,4 @@
-simple-subscripition-dApp.clar
+
 ;; Basic Staking Platform
 ;; Users can stake STX and track their staked balance
 
