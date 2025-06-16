@@ -54,7 +54,7 @@ The Simple Subscription dApp serves as a foundation for building more complex su
 
 ## Contract Address
 
-**Testnet Contract Address**: `ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM.simple-subscription`
+**Testnet Contract Address**: `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.simple-subscription-dApp`
 
 *(To be deployed after testnet validation)*
 
@@ -85,4 +85,5 @@ The Simple Subscription dApp serves as a foundation for building more complex su
 3. Users can call `subscribe()` to purchase subscriptions
 4. Use `check-subscription()` to verify subscription status
 
-For development and testing, use the Stacks CLI and Clarinet framework to interact with the smart contract locally before deploying to testnet or mainnet.
+For development and testing, use the<img width="1398" alt="screenshot (1)" src="https://github.com/user-attachments/assets/fe09df52-fb57-4233-97b4-b84fa694cf0b" />
+ Stacks CLI and Clarinet framework to interact with the smart contract locally before deploying to testnet or mainnet.
